@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/bin/Debug/net6.0/Example002_HelloConsole
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/bin/Debug/net6.0/Example002_HelloConsole.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/bin/Debug/net6.0/Example002_HelloConsole.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/bin/Debug/net6.0/Example002_HelloConsole.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/bin/Debug/net6.0/Example002_HelloConsole.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/refint/Example002_HelloConsole.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/Example002_HelloConsole.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example002_HelloConsole/obj/Debug/net6.0/ref/Example002_HelloConsole.dll
