@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/bin/Debug/net6.0/Example008_Magic
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/bin/Debug/net6.0/Example008_Magic.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/bin/Debug/net6.0/Example008_Magic.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/bin/Debug/net6.0/Example008_Magic.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/bin/Debug/net6.0/Example008_Magic.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/refint/Example008_Magic.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/Example008_Magic.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example008_Magic/obj/Debug/net6.0/ref/Example008_Magic.dll
