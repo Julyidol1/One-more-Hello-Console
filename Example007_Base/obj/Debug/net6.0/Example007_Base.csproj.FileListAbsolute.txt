@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/bin/Debug/net6.0/Example007_Base
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/bin/Debug/net6.0/Example007_Base.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/bin/Debug/net6.0/Example007_Base.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/bin/Debug/net6.0/Example007_Base.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/bin/Debug/net6.0/Example007_Base.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/refint/Example007_Base.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/Example007_Base.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example007_Base/obj/Debug/net6.0/ref/Example007_Base.dll
