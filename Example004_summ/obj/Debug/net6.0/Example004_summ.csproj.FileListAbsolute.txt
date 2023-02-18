@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/bin/Debug/net6.0/Example004_summ
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/bin/Debug/net6.0/Example004_summ.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/bin/Debug/net6.0/Example004_summ.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/bin/Debug/net6.0/Example004_summ.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/bin/Debug/net6.0/Example004_summ.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/refint/Example004_summ.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/Example004_summ.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example004_summ/obj/Debug/net6.0/ref/Example004_summ.dll
