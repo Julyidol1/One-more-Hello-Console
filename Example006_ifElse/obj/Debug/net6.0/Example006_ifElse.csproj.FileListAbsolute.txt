@@ -1,0 +1,15 @@
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/bin/Debug/net6.0/Example006_ifElse
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/bin/Debug/net6.0/Example006_ifElse.deps.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/bin/Debug/net6.0/Example006_ifElse.runtimeconfig.json
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/bin/Debug/net6.0/Example006_ifElse.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/bin/Debug/net6.0/Example006_ifElse.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.csproj.AssemblyReference.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.AssemblyInfoInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.AssemblyInfo.cs
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.csproj.CoreCompileInputs.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/refint/Example006_ifElse.dll
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.pdb
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/Example006_ifElse.genruntimeconfig.cache
+/Users/aleksandrlistopad/Desktop/  Языки програмирования/Examples_18-02/Example006_ifElse/obj/Debug/net6.0/ref/Example006_ifElse.dll
